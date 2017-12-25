@@ -18,3 +18,8 @@ layouts is:
 ```bash
 sudo dpkg-reconfigure xkb-data
 ```
+
+## See Also
+
+* https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions?action=show&redirect=Howto%3A+Custom+keyboard+layout+definitions
+* https://wiki.debian.org/Keyboard#How_to_switch_a_keyboard_layout_in_X11_.2F_graphical_desktop_environment
